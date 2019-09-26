@@ -1,6 +1,6 @@
 # v2ray-arukas-all-in-one
 
-A v2ray docker image work with nginx for Arukas.    ghj
+A v2ray docker image work with nginx for Arukas.
 
 - v2ray work with websocket
 - v2ray request proxy_pass by nginx
